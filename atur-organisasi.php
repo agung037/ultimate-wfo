@@ -30,7 +30,7 @@ var_dump(dapatkan_pokja_berdasarkan_id_eselon2(1));
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ultimate WFO, Manajemen Organisasi</title>
+    <title>Ultimate WFO, Manajemen Organisasi BKF</title>
 </head>
 <body>
 
