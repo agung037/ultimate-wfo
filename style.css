@@ -1,0 +1,43 @@
+.myform{
+    max-width: 400px;
+    padding: 20px;
+    box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+}
+
+.nice-shadow{
+    box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+}
+
+.text-center{
+   text-align: center;
+}
+
+
+.small-item{
+    max-width: 250px;
+}
+
+
+#sortable .item {
+    margin-bottom: 10px;
+    padding: 10px;
+    background-color: #f0f0f0;
+  }
+  
+  #sortable .item.dragover {
+    background-color: #e0e0e0;
+  }
+  
+  #sortable .item.dragging {
+    opacity: 0.5;
+  }
+
+  .grab:hover {
+    cursor: grab;
+    cursor: -webkit-grab;
+}
+
+
+.hide-check{
+    -webkit-appearance: none; -moz-appearance: none; appearance: none;
+}
